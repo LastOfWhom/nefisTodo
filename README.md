@@ -8,9 +8,8 @@
 
 ## Описание самого проекта:
 1) Скачать репозитории по ссылке 
-```[git clone https://github.com/LastOfWhom/EnotParser](https://github.com/LastOfWhom/nefisTodo.git)```
-3) Установить все зависимости по команде 
+```[git clone https://github.com/LastOfWhom/nefisTodo](https://github.com/LastOfWhom/nefisTodo.git)]```
+2) Установить все зависимости по команде 
 ```composer install```
 Примерный функционал приложения:
-1) ![1](https://github.com/LastOfWhom/nefisTodo/assets/131748290/d200c9d6-271b-4c03-af6e-54fb49c0fe13)
-
+![1](https://github.com/LastOfWhom/nefisTodo/assets/131748290/d200c9d6-271b-4c03-af6e-54fb49c0fe13)
